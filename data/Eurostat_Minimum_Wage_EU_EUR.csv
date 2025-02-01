@@ -1,24 +1,22 @@
-,2024-S1,2024-S2
-:be: Belgium,1994.18,2070.48
-:bg: Bulgaria,477.04,477.04
-:hr: Croatia,840.0,840.0
+,2024-S2,2025-S1
+:be: Belgium,2070.48,2070.48
+:bg: Bulgaria,477.04,550.67
+:hr: Croatia,840.0,970.0
 :cy: Cyprus,1000.0,1000.0
-:cz: Czechia,764.44,755.24
-:ee: Estonia,820.0,820.0
-:fr: France,1766.92,1766.92
-:de: Germany,2054.0,2054.0
-:gr: Greece,910.0,968.33
-:hu: Hungary,696.97,675.27
-:ie: Ireland,2146.3,2146.3
-:lv: Latvia,700.0,700.0
-:lt: Lithuania,924.0,924.0
-:lu: Luxembourg,2570.93,2570.93
-:mt: Malta,925.34,925.34
-:nl: Netherlands,2070.12,2134.08
-:pl: Poland,977.53,997.91
-:pt: Portugal,956.67,956.67
-:ro: Romania,663.24,743.37
-:sk: Slovakia,750.0,750.0
-:si: Slovenia,1253.9,1253.9
-:es: Spain,1323.0,1323.0
-:us: United States,1137.25,1173.91
+:cz: Czechia,755.24,825.89
+:ee: Estonia,820.0,886.0
+:fr: France,1766.92,1801.8
+:de: Germany,2054.0,2161.0
+:gr: Greece,968.33,968.33
+:hu: Hungary,675.27,706.94
+:ie: Ireland,2146.3,2281.5
+:lv: Latvia,700.0,740.0
+:lt: Lithuania,924.0,1038.0
+:lu: Luxembourg,2570.93,2637.79
+:mt: Malta,925.34,961.05
+:nl: Netherlands,2134.08,2193.36
+:pl: Poland,997.91,1091.46
+:pt: Portugal,956.67,1015.0
+:ro: Romania,743.37,814.18
+:sk: Slovakia,750.0,816.0
+:us: United States,1173.91,1209.61
